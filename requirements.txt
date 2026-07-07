@@ -1,0 +1,4 @@
+scapy>=2.5.0
+PySide6>=6.6.0
+pyqtgraph>=0.13.3
+reportlab>=4.0.0
